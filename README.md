@@ -5,7 +5,7 @@ YouCompleteMe: a code-completion engine for Vim
 [![Build status](https://dev.azure.com/YouCompleteMe/YCM/_apis/build/status/ycm-core.YouCompleteMe?branchName=master)](https://dev.azure.com/YouCompleteMe/YCM/_build?definitionId=3&branchName=master)
 [![Coverage status](https://img.shields.io/codecov/c/github/ycm-core/YouCompleteMe/master.svg)](https://codecov.io/gh/ycm-core/YouCompleteMe)
 
-NOTE: Minimum Requirements Have Changed
+NOTE: Minimum Requirements Have
 ----------------------------------------
 
 Our policy is to support the Vim version that's in the latest LTS of Ubuntu.
